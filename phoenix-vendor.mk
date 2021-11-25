@@ -1550,7 +1550,6 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-    WfdCommon \
     com.qti.location.sdk \
     izat.xt.srv \
     android.hardware.gnss@2.1-service-qti \
